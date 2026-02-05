@@ -1,7 +1,7 @@
 # SLAM & Nav2 튜토리얼 (ROS 2 Humble + TurtleBot3 Gazebo)
 
 최종 업데이트: 2026-02-06
-
+![alt text](img/to_goal.png)
 TurtleBot3 Gazebo(시뮬레이션)에서 아래 Flow들을 직접 실행하며
 SLAM / Localization / Nav2가 각각 어떤 책임을 갖는지 “손으로” 익히는 것을 목표로 합니다.
 
